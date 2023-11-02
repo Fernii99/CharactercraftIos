@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "462528477646",
+    "project_id": "charactercraft-c74c9",
+    "storage_bucket": "charactercraft-c74c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462528477646:android:ef57cc554b8b550875939f",
+        "android_client_info": {
+          "package_name": "com.charactercraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462528477646-1c706h3sihgbjvoqh6tc37bblp41dbna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charactercraft",
+            "certificate_hash": "d626d143f07f6032a45d1cdb6988f2368d117cfc"
+          }
+        },
+        {
+          "client_id": "462528477646-rpjlttrvq98ef6eqi7t5g8stvpt23nlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjTr7I-L9enX-5ED5hjpvgSAVlQo9xC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462528477646-rpjlttrvq98ef6eqi7t5g8stvpt23nlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462528477646-3nvkpgpl70kpvplnmsboocni6d5e4jl3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CharacterCraft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
